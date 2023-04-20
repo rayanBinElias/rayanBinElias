@@ -13,16 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Emphasis/italic
-*asterisks*
-_underscores_
-
-Strong/bold
-**strong
-__strong
-
-strikethrought
-  ~~deleted
-  
-  lists
     
