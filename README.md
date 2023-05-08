@@ -13,12 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-Temp:
-Please create Dockerfile including components:
-Nginx runs when startup
-php-fpm runs when startup
-Container port is expected as 8888, and should work with it
-Save Nginx’s log and php-fpm’s log on host machine’s dir /usr/local/var/docker/logs with using “mount”
-Copy all host machine's files under ./ current dir to absolute path /var/www/workspace/ in a container
-
